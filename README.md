@@ -29,5 +29,5 @@ To request permission for licensing, please contact the author directly.
 ## Contact
 
 **IBAI | Delivering AI Solutions from a Human Perspective**  
-Email: [iainbackeberg@gmail.com](mailto:iainbackeberg@gmail.com) 
+Email: [iain@ib-ai.tech](mailto:iain@ib-ai.tech) 
 Website: [https://www.ib-ai.tech](https://www.ib-ai.tech)
